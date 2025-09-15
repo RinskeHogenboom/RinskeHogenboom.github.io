@@ -12,3 +12,6 @@ ul{
     overflow: hidden;
     background-color: darkmagenta;
 }
+ul li {
+    float: left;
+}
