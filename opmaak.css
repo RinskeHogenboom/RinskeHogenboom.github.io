@@ -15,3 +15,11 @@ ul{
 ul li {
     float: left;
 }
+
+ul li a {
+    display: block;
+    color: beige;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
