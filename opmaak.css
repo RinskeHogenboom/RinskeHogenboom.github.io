@@ -26,3 +26,6 @@ ul li a {
 ul li a:hover {
     background-color: rgb(212, 127, 255);
 }
+li {
+    width: 50px;
+}
