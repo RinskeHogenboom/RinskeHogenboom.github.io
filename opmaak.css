@@ -24,7 +24,7 @@ ul li a {
     text-decoration: none;
 }
 ul li a:hover {
-    background-color: darkorchid;
+    background-color: darkmagenta;
 }
 li {
     width: 125px;
