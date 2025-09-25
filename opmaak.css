@@ -2,11 +2,11 @@ body {
     background-color: rgb(230, 210, 236);
 } /* achtergrondkleur op mijn site */
 h1 {
-    color: rgb(219, 183, 234);
-    margin-left: 30px;
+    color: rgb(219, 183, 234); /* Kleru van de tussenkopjes*/
+    margin-left: 30px; /* Afstand van de tussenkopjes tot de rand*/
 }
-ul{  
-    list-style-type: none;
+ul{   /*kleur van het menu, plaats van tekst en grootte van het menu.*/
+    list-style-type: none; 
     margin: 0;
     padding: 5px;
     overflow: hidden;
