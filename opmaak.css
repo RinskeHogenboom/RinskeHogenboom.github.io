@@ -13,7 +13,7 @@ ul{   /*kleur van het menu, plaats van tekst en grootte van het menu.*/
     background-color: darkmagenta;
 }
 ul li {
-    float: left;
+    float: right;
 }
 
 ul li a {
