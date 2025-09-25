@@ -12,8 +12,8 @@ ul{   /*kleur van het menu, plaats van tekst en grootte van het menu.*/
     overflow: hidden;
     background-color: darkmagenta;
 }
-ul li {
-    float: right;
+ul li { /* staat de tekst van het menu aan de linker- of rechterkant*/
+    float: left;
 }
 
 ul li a {
