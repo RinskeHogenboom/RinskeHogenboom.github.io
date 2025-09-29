@@ -7,8 +7,8 @@ h1 {
 }
 ul{   /*kleur van het menu, plaats van tekst en grootte van het menu.*/
     list-style-type: none; 
-    margin: 0;
-    padding: 5px;
+    margin: 0;  /*Met margin wordt aangegeven hoeveel ruimte er tussen elementen gehouden moet worden.*/ 
+    padding: 5px;/*Met padding wordt aangegeven hoeveel ruimte er is tussen een rand en de inhoud.*/
     overflow: hidden;
     background-color: darkmagenta;
 }
