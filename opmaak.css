@@ -16,7 +16,7 @@ ul li { /* staat de tekst van het menu aan de linker- of rechterkant*/
     float: left;
 }
 
-ul li a {  /* kleur van de tekst in mijn menu */
+ul li a {  /* tekstkleur en -grootte, lettertype en eventuele verder opmaak van de tekst. */
     display: block;
     color: rgb(255, 255, 255);
     text-align: center;
