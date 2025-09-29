@@ -16,7 +16,7 @@ ul li { /* staat de tekst van het menu aan de linker- of rechterkant*/
     float: left;
 }
 
-ul li a {
+ul li a {  /* kleur van de tekst in mijn menu */
     display: block;
     color: rgb(255, 255, 255);
     text-align: center;
@@ -27,5 +27,5 @@ ul li a:hover {
     background-color: rgb(155, 7, 155);
 }
 li {
-    width: 150px;
+    width: 200px;
 }
