@@ -2,7 +2,7 @@ body {
     background-color: rgb(230, 210, 236);
 } /* achtergrondkleur op mijn site */
 h1 {
-    color: rgb(219, 183, 234); /* Kleru van de tussenkopjes*/
+    color: rgb(219, 183, 234); /* Kleur van de tussenkopjes*/
     margin-left: 30px; /* Afstand van de tussenkopjes tot de rand*/
 }
 ul{   /*kleur van het menu, plaats van tekst en grootte van het menu.*/
