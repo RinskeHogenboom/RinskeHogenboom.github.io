@@ -29,6 +29,3 @@ ul li a:hover { /*kleur van de blokjes als je muis eroverheen gaat*/
 li { /*Grootte van de blokje in mijn menu*/
     width: 225px;
 }
-
-/*Met padding wordt aangegeven hoeveel ruimte er is tussen een rand en de inhoud.
-Met margin wordt aangegeven hoeveel ruimte er tussen elementen gehouden moet worden.*/ 
