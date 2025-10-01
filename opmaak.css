@@ -33,3 +33,21 @@ li { /*Grootte van de blokje in mijn menu*/
 table, th, td {
   border:1px solid black;
 }
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 15%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
