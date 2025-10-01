@@ -29,3 +29,7 @@ ul li a:hover { /*kleur van de blokjes als je muis eroverheen gaat*/
 li { /*Grootte van de blokje in mijn menu*/
     width: 267px;
 }
+
+table, th, td {
+  border:0px solid black;
+}
