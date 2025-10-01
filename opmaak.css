@@ -40,7 +40,7 @@ table {
 }
 
 td, th {
-  border: 1px solid black;
+  border: 1px solid rgb(219, 183, 234);
   text-align: hidden;
   padding: 6px;
 }
