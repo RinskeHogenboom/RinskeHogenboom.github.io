@@ -40,7 +40,7 @@ table { /*Grootte van de tabel*/
 }
 
 td, th {  /*Tekst bewerking in de tabel*/
-  border: 1px solid; black;
+  border: 1px solid black;
   text-align: hidden;
   padding: 6px;
 }
