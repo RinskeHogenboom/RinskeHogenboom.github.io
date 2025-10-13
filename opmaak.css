@@ -24,7 +24,7 @@ ul li a {  /* tekstkleur en -grootte, lettertype en eventuele verder opmaak van 
     text-decoration: none;
 }
 ul li a:hover { /*kleur van de blokjes als je muis eroverheen gaat*/
-    background-color: rgb(157, 18, 157);
+    background-color: rgb(177, 45, 177);
 }
 li { /*Grootte van de blokje in mijn menu*/
     width: 267px;
